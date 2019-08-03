@@ -10,6 +10,7 @@ public class CloudEurekaServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CloudEurekaServiceApplication.class, args);
+
 	}
 
 }
